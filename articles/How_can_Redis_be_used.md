@@ -1,4 +1,4 @@
-# کاربرد های Redis
+# کاربردهای Redis
 
 [متن اصلی](https://twitter.com/alexxubyte/status/1610678713087295490)
 
