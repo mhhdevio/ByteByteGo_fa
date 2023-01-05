@@ -1,4 +1,4 @@
-# چگونه می‌توان از Redis استفاده کرد؟
+# کاربرد های Redis
 
 [متن اصلی](https://twitter.com/alexxubyte/status/1610678713087295490)
 
